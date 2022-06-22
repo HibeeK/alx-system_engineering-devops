@@ -7,3 +7,4 @@ The script lists files with UID and GID
 The script creates a new directory in a different folder
 The script deletes file in a directory
 The script deletes a directory
+The script changes the working directory to the previous one
